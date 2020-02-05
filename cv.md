@@ -16,14 +16,13 @@ I want to get a new interesting job. I started learning HTML,CSS and javascript 
 * HTML - basic
 * СSS - basic
 
-
 ## Code examples
 
 Later, my code examples will be available here: [https://github.com/inga-dan](https://github.com/inga-dan)
 
 ## Experience 
 
-I have no experience in IT. But for 4 years I worked in a jewelry workshop and 4 years as a kindergarten teacher. I also have experience as a site maintenance specialist.
+I have no experience in IT. But for 4 years I worked in a jewelry workshop and 4 years as a kindergarten teacher. 
 
 ## Education
 
