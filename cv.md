@@ -1,39 +1,36 @@
-## [Danilova Inga](https://github.com/inga-dan)  
+# Danilova Inga
 
-Date of Birth: **31th August 1987**;
 
 ### My contact Info:
 
-| | |
-| ------------ | ------------ |
-| Phone number, Skype, Viber, WhatsApp,Telegram | +375295917148 |
-| email | ngdnlv@gmail.com |
+| **Phone number, Skype, Viber, WhatsApp,Telegram** | +375295917148 |
+| **email** | ngdnlv@gmail.com |
 
-# Summary
-Extremely motivated for career change goal.
+## Summary
 
-# Skills
+My goal is to obtain the necessary theoretical and practical knowledge. 
+I want to get a new interesting job. I started learning HTML,CSS and javascript with HTMLAcademy and freCodeCamp courses. 
 
-* HTML / HTML 5.
-* СSS / СSS3
-* Less/Sass 
-* JS EC5 / JS EC6
-* React JS
-* Node JS
-* Git
+## Skills
 
-# Code examples
+* HTML - basic
+* СSS - basic
 
-| Project name | Link|
-| ------------ | ------------ |
-| Game developer website (HTML / CSS) | |
-| The game "Aquarium survival" (JS) | |
-| The game "Guess the number" | | |
 
-# Education
+## Code examples
+
+Later, my code examples will be available here: [https://github.com/inga-dan](https://github.com/inga-dan)
+
+## Experience 
+
+I have no experience in IT. But for 4 years I worked in a jewelry workshop and 4 years as a kindergarten teacher. I also have experience as a site maintenance specialist.
+
+## Education
+
 | 2005 – 2011 | Polotsk State University, History and Philology Department, specialty "History" |
+| 2018 - now  | [HTML Academy](https://htmlacademy.ru) |
+| now         | Learning JS on the site [learn.javascript.ru](https://learn.javascript.ru/) |
 
-
-# Languages
+## Languages
 
 English: Pre-Intermediate. 
